@@ -10,7 +10,7 @@
 </td>
 <td valign="top">
 
-<pre><code>╭─ heurte@github ────────────────────────────────────────────────────╮
+<pre><code>╭─ heurte@github ───────────────────────────────────────────────────────╮
 │                                                                          │
 │  status      Game Programming Graduate                                   │
 │  interests   game development, software engineering, retro computing,    │
