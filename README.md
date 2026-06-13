@@ -1,1 +1,49 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsheurte&layout=compact)
+<div align="center">
+<p align="center">
+
+<table>
+<tr>
+<td valign="top" width="212">
+
+<img src="assets/" width="212">
+
+</td>
+<td valign="top">
+
+<pre><code>╭─ C:\Users\itsheurte ────────────────────────────────────────────────────╮
+│                                                                         │
+│  status      Game Programming Graduate                                  │
+│  interests   game development, software engineering, retro computing,   │
+│              computer graphics, programming languages                   │
+│  currently   building games, tools and personal projects                │
+│  strengths   Unity, C#, C++, technical creativity, prototyping          │
+│                                                                         │
+╰─────────────────────────────────────────────────────────────────────────╯</code></pre>
+</td>
+</tr>
+</table>
+
+</p>
+</div>
+
+---
+
+
+
+### highlights
+- **[hsp](https://github.com/itsheurte/hsp-projets)** &emsp; &ensp; hsp projects
+
+---
+
+### tools lately
+<p align="center">
+
+![C#](https://img.shields.io/badge/c%23-%231e1e2e.svg?style=for-the-badge&logo=csharp&logoColor=cba6f7)
+![C++](https://img.shields.io/badge/c++-%231e1e2e.svg?style=for-the-badge&logo=c%2B%2B&logoColor=89b4fa)
+![C](https://img.shields.io/badge/c-%231e1e2e.svg?style=for-the-badge&logo=c&logoColor=a6e3a1)
+![BASIC](https://img.shields.io/badge/BASIC-1e1e2e?style=for-the-badge&logoColor=f9e2af)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+
+</p>
