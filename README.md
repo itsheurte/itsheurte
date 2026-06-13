@@ -5,14 +5,14 @@
 <tr>
 <td valign="top" width="212">
 
-<img src="assets/" width="212">
+<img src="assets/shop3dbyheurte.png" width="212">
 
 </td>
 <td valign="top">
 
 <pre><code>╭─ heurte@github ─────────────────────────────────────────────────────────╮
 │                                                                          │
-│  status      Game Programming Graduate                                   │
+│  status      Game Programming Graduate | 3d artist                       │
 │  interests   game development, software engineering, retro computing,    │
 │              computer graphics, programming languages                    │
 │  currently   building games, tools and personal projects                 │
