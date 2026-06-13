@@ -19,6 +19,7 @@
 │  strengths   Unity, C#, C++, technical creativity, prototyping           │
 │                                                                          │
 ╰─────────────────────────────────────────────────────────────────────────╯</code></pre>
+<img src="assets/bat3.png">
 </td>
 </tr>
 </table>
