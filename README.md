@@ -10,6 +10,7 @@
 </td>
 <td valign="top">
 
+
 <pre><code>╭─ heurte@github ─────────────────────────────────────────────────────────╮
 │                                                                          │
 │  status      Game Programming Graduate | 3d artist                       │
@@ -19,8 +20,7 @@
 │  strengths   Unity, C#, C++, technical creativity, prototyping           │
 │                                                                          │
 ╰─────────────────────────────────────────────────────────────────────────╯</code></pre>
-
-<img src="https://pixelsafari.neocities.org/dividers/horror/chain.png" width="600" height="50"/></td>
+</td>
 </tr>
 </table>
 
