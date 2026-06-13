@@ -20,7 +20,7 @@
 │                                                                          │
 ╰─────────────────────────────────────────────────────────────────────────╯</code></pre>
 
-<img src="https://wilardo.crd.co/assets/images/gallery22/92802f21_original.png?v=87117d4a" width="600" height="50">
+<img src="https://pixelsafari.neocities.org/dividers/horror/chain.png"/>
 </td>
 </tr>
 </table>
