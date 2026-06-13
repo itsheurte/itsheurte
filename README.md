@@ -44,7 +44,7 @@
 ![C++](https://img.shields.io/badge/c++-%231e1e2e.svg?style=for-the-badge&logo=c%2B%2B&logoColor=89b4fa)
 ![C](https://img.shields.io/badge/c-%231e1e2e.svg?style=for-the-badge&logo=c&logoColor=a6e3a1)
 ![BASIC](https://img.shields.io/badge/BASIC-1e1e2e?style=for-the-badge&logoColor=f9e2af)
-![BASIC](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logoColor=f9e2af)
+![PYTHON](https://img.shields.io/badge/python-1e1e2e?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
