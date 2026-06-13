@@ -19,10 +19,8 @@
 │  strengths   Unity, C#, C++, technical creativity, prototyping           │
 │                                                                          │
 ╰─────────────────────────────────────────────────────────────────────────╯</code></pre>
-</td>
 
-<td valign="top">
-  <img src="https://wilardo.crd.co/assets/images/gallery22/92802f21_original.png?v=87117d4a" width="600" height="50">
+<img src="https://wilardo.crd.co/assets/images/gallery22/92802f21_original.png?v=87117d4a" width="600" height="50">
 </td>
 </tr>
 </table>
