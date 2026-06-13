@@ -11,13 +11,13 @@
 <td valign="top">
 
 <pre><code>╭─ C:\Users\itsheurte ────────────────────────────────────────────────────╮
-│                                                                         │
-│  status      Game Programming Graduate                                  │
-│  interests   game development, software engineering, retro computing,   │
-│              computer graphics, programming languages                   │
-│  currently   building games, tools and personal projects                │
-│  strengths   Unity, C#, C++, technical creativity, prototyping          │
-│                                                                         │
+│                                                                          │
+│  status      Game Programming Graduate                                   │
+│  interests   game development, software engineering, retro computing,    │
+│              computer graphics, programming languages                    │
+│  currently   building games, tools and personal projects                 │
+│  strengths   Unity, C#, C++, technical creativity, prototyping           │
+│                                                                          │
 ╰─────────────────────────────────────────────────────────────────────────╯</code></pre>
 </td>
 </tr>
