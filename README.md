@@ -20,7 +20,7 @@
 │                                                                          │
 ╰─────────────────────────────────────────────────────────────────────────╯</code></pre>
 
-<img src="https://pixelsafari.neocities.org/dividers/horror/chain.png" width="600" height="50"/>
+<img src="https://pixelsafari.neocities.org/dividers/horror/chain.png"/>
 </td>
 </tr>
 </table>
