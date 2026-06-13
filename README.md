@@ -36,7 +36,7 @@
 
 ---
 
-### tools lately
+### tools / languages
 <p align="center">
 
 ![C#](https://img.shields.io/badge/c%23-%231e1e2e.svg?style=for-the-badge&logo=csharp&logoColor=cba6f7)
