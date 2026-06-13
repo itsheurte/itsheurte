@@ -19,7 +19,7 @@
 │  strengths   Unity, C#, C++, technical creativity, prototyping           │
 │                                                                          │
 ╰─────────────────────────────────────────────────────────────────────────╯</code></pre>
-<img src="https://pixelsafari.neocities.org/dividers/animal/bat3.png"/>
+<img src="assets/shop3dbyheurte.png"/>
 </td>
 </tr>
 </table>
